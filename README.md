@@ -14,7 +14,7 @@ docker build -t counter-image -f Dockerfile .
 # Create a container
 docker create --name corecounter counter-image
 
-#Manage the container
+# Manage the container
 docker start corecounter
 
 docker stop corecounter
