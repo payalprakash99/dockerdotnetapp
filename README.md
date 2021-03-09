@@ -5,17 +5,6 @@ containerize a .NET Core application with docker.
 
 dotnet new console -o App -n NetCore.Docker
 
-# Folder- tree
-docker-working
-    └──App
-        ├──NetCore.Docker.csproj
-        ├──Program.cs
-        └──obj
-            ├──NetCore.Docker.csproj.nuget.dgspec.json
-            ├──NetCore.Docker.csproj.nuget.g.props
-            ├──NetCore.Docker.csproj.nuget.g.targets
-            ├──project.assets.json
-            └──project.nuget.cache
 # Publish .NET Core app
 dotnet publish -c Release
 
