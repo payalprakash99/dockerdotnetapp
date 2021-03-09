@@ -1,0 +1,13 @@
+C:\Users\payal\dotnetapi\App\bin\Debug\netcoreapp3.1\NetCore.Docker.exe
+C:\Users\payal\dotnetapi\App\bin\Debug\netcoreapp3.1\NetCore.Docker.deps.json
+C:\Users\payal\dotnetapi\App\bin\Debug\netcoreapp3.1\NetCore.Docker.runtimeconfig.json
+C:\Users\payal\dotnetapi\App\bin\Debug\netcoreapp3.1\NetCore.Docker.runtimeconfig.dev.json
+C:\Users\payal\dotnetapi\App\bin\Debug\netcoreapp3.1\NetCore.Docker.dll
+C:\Users\payal\dotnetapi\App\bin\Debug\netcoreapp3.1\NetCore.Docker.pdb
+C:\Users\payal\dotnetapi\App\obj\Debug\netcoreapp3.1\NetCore.Docker.csprojAssemblyReference.cache
+C:\Users\payal\dotnetapi\App\obj\Debug\netcoreapp3.1\NetCore.Docker.AssemblyInfoInputs.cache
+C:\Users\payal\dotnetapi\App\obj\Debug\netcoreapp3.1\NetCore.Docker.AssemblyInfo.cs
+C:\Users\payal\dotnetapi\App\obj\Debug\netcoreapp3.1\NetCore.Docker.csproj.CoreCompileInputs.cache
+C:\Users\payal\dotnetapi\App\obj\Debug\netcoreapp3.1\NetCore.Docker.dll
+C:\Users\payal\dotnetapi\App\obj\Debug\netcoreapp3.1\NetCore.Docker.pdb
+C:\Users\payal\dotnetapi\App\obj\Debug\netcoreapp3.1\NetCore.Docker.genruntimeconfig.cache
